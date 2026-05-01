@@ -1,0 +1,41 @@
+
+
+GoAnimate 2016 Video Player Page
+
+-------------------------------------------
+
+This page will make it look like GoAnimate style of it
+if you click the white and gray (thumbnail) next to the player
+the text will pop up, and when you click "Hide" the text will 
+go away, pretty cool huh?
+
+- How do you get this in Wrapper Offline though? if you asked
+
+Well there is a way!
+
+First, extract the zip file
+
+then, drag the "Mugen Yujo - S1 E1 - To Be Dared - Mugen Yujo_files" folder into the server folder
+just like so!
+
+Next, put the "player.eta" on wrapper/views/app/, drag it there.
+
+Now, you need to put the app.js in /wrapper/controllers files in it!
+
+Good. now restart Wrapper offline
+
+Click any video that you've made, or make a new video
+
+And BAM! you got the GoAnimate 2016 Video Payer Page!
+
+------------------------------------------------------------------
+
+Questions
+
+- Why does the thumbnail is not is not the same thumbnail like the video that I've made
+
+Because that was a hard part and I'm not very good at coding JS
+
+- Does it have video exporting?
+
+No, it's the hardest!
